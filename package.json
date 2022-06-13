@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/testScript.js && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooniez/puppeteer-starter.git"
+  },
+  "author": "tooniez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tooniez/puppeteer-starter/issues"
+  },
+  "homepage": "https://github.com/tooniez/puppeteer-starter#readme",
+  "dependencies": {
+    "npx": "^10.2.2",
+    "puppeteer": "^14.3.0"
+  }
+}
