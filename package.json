@@ -18,6 +18,6 @@
   "homepage": "https://github.com/tooniez/puppeteer-starter#readme",
   "dependencies": {
     "npx": "^10.2.2",
-    "puppeteer": "^14.3.0"
+    "puppeteer": "^22.11.2"
   }
 }
